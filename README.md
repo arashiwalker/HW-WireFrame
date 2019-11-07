@@ -76,7 +76,7 @@ Having an active and healthy commit history on GitHub is important for your futu
 
 * For a refresher on working with Git and GitHub, consult the GitHub Supplemental Guide we sent you in class.
 * Don't forget to review these concepts: `float`, `padding`, `margin`, `display`, `overflow`, `clear` and `text-align`.
-* This will be a tough assignment. Towards the end of the course, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive!
+* This will be a tough assignment. Towards the end of the course, you'll look back to this exercise and realize just how much you've grown as a developer.  Stay positive!
 
 ### Reminder: Submission on BCS
 
